@@ -684,6 +684,18 @@ ul {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 /* Footer subscribe */
+.subscribe-p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color:#ffffff
+}
 .footer-subscribe {
   margin-left: 80px;
 }
@@ -725,17 +737,9 @@ ul {
   background: #404bbf;
 }
 .subscribe-btn-text {
-  width: 77px;
-  height: 24px;
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.04em;
+  line-height: 1.5;
   color: #ffffff;
 }
 .footer-svg {
