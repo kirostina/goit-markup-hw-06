@@ -837,6 +837,16 @@ ul {
   align-items: center;
   margin-bottom: 24px;
 }
+.form-check-p::before {
+  display: block;
+  content: "";
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(46, 47, 66, 0.4);
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 8px;
+}
 .modal-link {
   text-decoration: underline;
   color: var(--color-iris);
