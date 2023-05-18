@@ -458,6 +458,8 @@ ul {
 .container-footer {
   display: flex;
   align-items: baseline;
+  margin-left: 110px;
+  margin-top: 25px;
 }
 .footer_first {
   margin-right: 120px;
