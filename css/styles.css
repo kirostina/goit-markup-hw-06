@@ -184,6 +184,7 @@ li {
   font-style: normal;
   display: flex;
   gap: 40px;
+  margin-left: auto;
 }
 .address-list {
   display: flex;
@@ -725,7 +726,7 @@ ul {
   color:#ffffff
 }
 .footer-subscribe {
-  margin-left: 80px;
+  margin-left: 800px;
   position: absolute;
 }
 .footer-input-btn {
