@@ -33,6 +33,15 @@ img {
 .head-container {
   display: flex;
 } 
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 .container_hero {
   width: 1158px;
   margin: 0 auto;
@@ -71,15 +80,16 @@ li {
   line-height: 1.2;
 }
 .hero-sol {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color-white);
   max-width: 496px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
 .logo {
@@ -265,7 +275,9 @@ ul {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-
+.section_str {
+  padding-bottom: 0;
+}
 .whatwad {
   background-color: #f4f4fd;
   padding-bottom: 120px;
@@ -284,6 +296,8 @@ ul {
   text-transform: capitalize;
   color: var(--color-navy-blue);
   margin-bottom: 72px;
+  margin: 0;
+  padding: 0;
 }
 .whatwad-li {
   display: flex;
