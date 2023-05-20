@@ -800,6 +800,7 @@ ul {
   gap: 8px;
   margin-bottom: 24px;
   align-items: baseline;
+  margin-top: 20px;
 }
 .modal-name {
   font-family: 'Roboto';
