@@ -458,12 +458,17 @@ ul {
 .customers-icons {
   fill: currentColor;
 }
+.customers-icons:hover,
+.customers-icons:focus {
+  color: #404bbf;
+}
 /* Footer */
 .container-footer {
   display: flex;
   align-items: baseline;
   margin-left: 110px;
   margin-top: 25px;
+  padding: 0 156px;
 }
 .footer_first {
   margin-right: 120px;
