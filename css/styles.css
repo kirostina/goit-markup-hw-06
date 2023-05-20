@@ -900,12 +900,12 @@ ul {
   align-items: center;
   margin-bottom: 24px;
 }
-.form-check:checked + .form-check-p::before {
+/* .form-check:checked + .form-check-p::before {
   background-color: var(--logo-color);
   background-image: url(../images/icons.svg#icon-checkmark);
   background-repeat: no-repeat;
   background-position: center;
-}
+} */
 .form-check-p::before {
   display: block;
   content: "";
