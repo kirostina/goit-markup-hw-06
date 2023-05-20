@@ -539,7 +539,7 @@ ul {
 }
 /* Portfolio - buttons */
 .porfolio-section {
-  background-color: var(--color-cloud);
+  background-color: var(--color-white);
   padding: 96px 0 120px;
 }
 .porfolio-section h1 {
@@ -649,7 +649,7 @@ ul {
 }
 
 .row {
-  background-color: var(--color-cornflower);
+  background-color: var(--color-white);
   padding: 96px 0 120px;
 }
 .row h3 {
