@@ -738,7 +738,9 @@ ul {
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
-  color:#ffffff
+  color:#ffffff;
+  margin-bottom: 16px;
+  margin-top: 0;
 }
 .footer-subscribe {
   margin-left: 800px;
