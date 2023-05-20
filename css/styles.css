@@ -143,6 +143,7 @@ li {
   flex-wrap: wrap;
   flex-direction: row;
   align-items: baseline;
+  margin: auto;
 }
 .logoto {
   font-family: "Raleway", sans-serif;
@@ -300,7 +301,7 @@ ul {
   padding-top: 120px;
 }
 .whatwad {
-  background-color: #f4f4fd;
+  background-color: var(--color-white);
   padding-bottom: 120px;
   padding-top: 120px;
 }
@@ -318,7 +319,6 @@ ul {
   text-transform: capitalize;
   color: var(--color-navy-blue);
   margin-bottom: 72px;
-  margin: 0;
   padding: 0;
 }
 .whatwad-li {
