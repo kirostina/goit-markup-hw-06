@@ -799,6 +799,7 @@ ul {
   display: flex;
   gap: 8px;
   margin-bottom: 24px;
+  align-items: baseline;
 }
 .modal-name {
   font-family: 'Roboto';
