@@ -140,6 +140,9 @@ li {
 .nav-menu {
   display: flex;
   gap: 40px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: baseline;
 }
 .logoto {
   font-family: "Raleway", sans-serif;
