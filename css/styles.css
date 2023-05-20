@@ -556,6 +556,7 @@ ul {
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
+  margin-top: auto;
 }
 .btns-other {
   font-family: "Roboto", sans-serif;
