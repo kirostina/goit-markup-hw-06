@@ -906,7 +906,7 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
 } */
-.form-check-p::before {
+/* .form-check-p::before {
   display: block;
   content: "";
   width: 16px;
@@ -915,7 +915,7 @@ ul {
   cursor: pointer;
   border-radius: 4px;
   margin-right: 8px;
-}
+} */
 .modal-link {
   text-decoration: underline;
   color: var(--color-iris);
