@@ -795,6 +795,11 @@ ul {
   margin-left: 16px;
 }
 /* Modal Form */
+.agreement {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+}
 .modal-name {
   font-family: 'Roboto';
   font-style: normal;
