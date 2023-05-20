@@ -544,7 +544,7 @@ ul {
 /* Portfolio - buttons */
 .porfolio-section {
   background-color: var(--color-white);
-  padding: 96px 0 120px;
+  padding: 75px 0 120px;
 }
 .porfolio-section h1 {
   line-height: 1.07;
@@ -655,7 +655,6 @@ ul {
 
 .row {
   background-color: var(--color-white);
-  padding: 96px 0 120px;
 }
 .row h3 {
   font-family: "Roboto";
