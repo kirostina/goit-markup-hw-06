@@ -451,17 +451,15 @@ ul {
 }
 .customers-link:hover,
 .customers-link:focus {
-  border: 1px solid var(--acent-color);
+  border: 1px solid var(--color-ocean);
   border-radius: 4px;
+  color: var(--color-ocean);
 }
 
 .customers-icons {
   fill: currentColor;
 }
-.customers-icons:hover,
-.customers-icons:focus {
-  color: #404bbf;
-}
+
 /* Footer */
 .container-footer {
   display: flex;
