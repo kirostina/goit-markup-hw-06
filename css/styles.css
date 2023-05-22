@@ -40,9 +40,6 @@ img {
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 1px 1px rgba(46, 47, 66, 0.16),
     0px 1px 6px rgba(46, 47, 66, 0.08);
-    height: 72px;
-    padding-top: 24px;
-    padding-bottom: 24px;
     }
 
 .head-container {
@@ -117,7 +114,6 @@ li {
   padding: 0px;
   margin-right: 76px;
   display: inline-block;
-  margin-bottom: 16px;
 }
 .top {
   display: flex;
@@ -126,7 +122,6 @@ li {
 .top-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
   position: relative;
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -146,9 +141,7 @@ li {
 .nav-menu {
   display: flex;
   gap: 40px;
-  flex-wrap: wrap;
   flex-direction: row;
-  align-items: baseline;
   margin: auto;
 }
 .logoto {
@@ -159,6 +152,7 @@ li {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-iris);
+  padding: 24px 0;
 }
 .logo-white {
   font-family: "Raleway";
