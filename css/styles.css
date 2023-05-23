@@ -749,6 +749,7 @@ ul {
   display: flex;
 }
 .footer-input {
+  outline: none;
   border: none;
   width: 264px;
   height: 40px;
