@@ -132,7 +132,7 @@ li {
 .top-menu.active {
   color: var(--color-iris);
 }
-.active::after {
+.active:after {
   content: "";
   position: absolute;
   left: 0;
